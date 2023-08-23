@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @E3VE3
+- 👀 I’m interested in Computer Science and I am a student
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on everything I can contribute to
+- 📫 How to reach me:  evercitoguapo@hotmail.com
